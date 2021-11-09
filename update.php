@@ -4,7 +4,7 @@
 	<title>Hlaman baru saya kerjaan bosku</title>
 </head>
 <body>
-	tambah sedikitlama
+	tambah sedikitlama1
 
 
 </body>
