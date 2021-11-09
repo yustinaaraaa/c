@@ -5,14 +5,9 @@
 </head>
 <body>
 	tambah sedikitlama1
-	
-git lain
 
-	
+git lain
 	skfjash
 	daaasd
-
-
-
 </body>
 </html>
