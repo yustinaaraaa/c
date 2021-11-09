@@ -4,6 +4,7 @@
 	<title>Hlaman baru saya kerjaan bosku</title>
 </head>
 <body>
+	tambah sedikitlama
 
 </body>
 </html>
